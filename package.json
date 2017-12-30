@@ -4,8 +4,8 @@
   "license": "MIT",
   "scripts": {
     "develop": "gatsby develop",
-    "heroku-postbuild": "gatsby build",
-    "start": "gatsby serve"
+    "build": "gatsby build",
+    "serve": "gatsby serve"
   },
   "dependencies": {
     "gatsby": "^1.9.145",
